@@ -21,3 +21,5 @@ Exploit the fact that the source text is constant. This allows us to restrict th
 1) Needs manual tagging of source text, if not already done.  
 2) Needs the manual translation of lexicon with usages in target language.  
 3) Output accuracy needs to be experimentally verified.  
+
+Feedbacks are always welcome! Please create an Issue detailing your point of view.
